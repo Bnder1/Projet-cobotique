@@ -1,4 +1,4 @@
-#AMDEC
+# AMDEC
 
 • Main d'œuvre : les collaborateurs, leurs compétences...
 • Matières : les matières concernées, la qualité... Pour une fabrication, les composants entrant dans l'élaboration du produit.
@@ -6,7 +6,7 @@
 • Méthodes : les techniques, les procédures, modes opératoires...
 • Milieu : l'environnement de travail, la concurrence...
 
-##Problème identifié :
+## Problème identifié :
 
 - Plateau (gestion hauteur)
 - Fin de course seringue (pb coco)
